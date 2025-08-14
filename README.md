@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ##### Muito prazer, eu sou o **Lucas**, estudante em constante **evolução**!
-Apaixonado por números e interações, decidi entrar para o mundo da programação! 
+Apaixonado por lógica e interações, decidi entrar para o mundo da programação! 
 Estou estudando para Desenvolver Sites, Aplicações e Automações Responsivas que possam proporcionar eficiência e resultado para empresas e negócios!
 
 ### Linguagens que estou estudando:
